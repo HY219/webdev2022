@@ -14,6 +14,6 @@ public class HelloController {
     @RequestMapping("")
     public String hello() {
         //TODO: 구현해야함
-        return "Hello world!";
+        return "Hello world!!";
     }
 }
