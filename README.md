@@ -4,4 +4,4 @@
 
 
 # HY's blog
-github repository로 git blog 만들기
+github repository로 git blog 만들기 -jekll
