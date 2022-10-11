@@ -1,0 +1,7 @@
+android studio
+
+Could not create task ':app:createDebugVarianModel'.
+
+Error 발생
+
+SDK 33version으로 업데이트 후 에러 발생
