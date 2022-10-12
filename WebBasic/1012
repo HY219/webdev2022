@@ -1,0 +1,20 @@
+android studio
+
+[Error]
+Could not create task ':app:createDebugVarianModel'.
+
+Error 발생
+
+SDK 33version으로 업데이트 후 에러 발생
+
+---
+
+[SOLVED]
+kakao map api key를 local.properties에 추가 후 빌드 됨.
+kakao.api.key=aaaaaa
+
+---
+
+[Error]
+But, 실행 안됨.
+:app:writeDebugSigningConfigVersions error 발생
