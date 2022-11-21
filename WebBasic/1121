@@ -1,0 +1,6 @@
+스터디 관리 프로젝트 
++버튼 클릭 시 스터디 생성화면으로 navigate 이동
+navigation.navigate 이용
+
+stacknavigation 파일하나에 모든 navigation 모아 작성 후 
+루트 디렉토리에 stacknavigation component 추가
