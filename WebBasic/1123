@@ -1,0 +1,7 @@
+RN 스터디 관리 웹서비스
+DB에 저장되어있는 스터디 정보 유저따라서 읽어오기 완료
+(현재는 유저정보 임의로 지정)
+
+firestore data 구조 정리 완료 (JSON 형식)
+-sutdy : 스터디 이름, 위치, 상세설명, 카테고리, 이미지, 관리자UserId, 대기자UserId, 참여UserId, 참여가능인원수(MaX_참여자)
+-todolist : update를 이용해서 todolist가 추가될때 마다 목록 추가 + todolist당 지정되어있는 0(default)값이 user가 완료했다고 체크했을 때  +1이 되고, 체크를 취소했을 때 -1이 되도록 한다.
